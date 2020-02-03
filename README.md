@@ -20,8 +20,8 @@ PS : la fonctionnalité d'edit ne fonctionne pas encore.
 ## L'arborescence du programme est la suivante :
 THP_sinatra
 
-```
-├── READLE.md
+
+```├── READLE.md
 ├── Gemfile
 ├── Gemfile.lock
 ├── config.ru
@@ -34,13 +34,12 @@ THP_sinatra
         ├── index.erb
         └── new_gossip.erb
         └── show.erb
-        └── edit.erb ```
+        └── edit.erb```
       
-        
        
 ### config.ru
-Fichier de configuration Rack, lancé avec Shotgun, cela permet de faire 
-tourner le serveur et de tester des changements en rafraichissant la page
+Fichier de configuration Rack, lancé avec Shotgun, cela permet de faire tourner le serveur et 
+de tester des changements en rafraichissant la page
 ### lib
 #### controller.rb
 Gère les routes et les méthodes GET / POST
