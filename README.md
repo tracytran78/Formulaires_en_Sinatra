@@ -9,6 +9,7 @@ PS : la fonctionnalité d'edit ne fonctionne pas encore.
 
 L'arborescence du programme est la suivante :
 the_gossip_project_sinatra
+
 ├── READLE.md
 ├── Gemfile
 ├── Gemfile.lock
