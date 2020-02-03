@@ -49,4 +49,4 @@ C'est le fichier qui contient la classe Gossip
 #### db/gossip.csv
 C'est la database au format csv
 #### views
-Ce dossier contient les differentes views
+Ce dossier contient les differentes views (index,new_gossip,show,edit)
