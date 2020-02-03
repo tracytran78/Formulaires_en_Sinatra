@@ -2,8 +2,8 @@
 
 ## Installation et utilisation
 1. Placez vous où vous souhaitez cloner le Gossip en ligne
-2. ```$ git clone https://github.com/DevPomeis/the_gossip_project_sinatra ```
-3. ```$ cd the_gossip_project_sinatra```
+2. ```$ git clone https://github.com/tracytran78/Formulaires_en_Sinatra ```
+3. ```$ cd THP_sinatra```
 4. ```$ bundle install```
 5. ```$ shotgun -p 4567```
 6. Allez sur la page http://localhost:4567/
