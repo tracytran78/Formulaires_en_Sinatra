@@ -19,7 +19,7 @@ PS : la fonctionnalité d'edit ne fonctionne pas encore.
 
 ## L'arborescence du programme est la suivante :
 THP_sinatra
-
+```
 ├── READLE.md
 ├── Gemfile
 ├── Gemfile.lock
@@ -34,6 +34,7 @@ THP_sinatra
         └── new_gossip.erb
         └── show.erb
         └── edit.erb
+        ```
         
        
 ### config.ru
