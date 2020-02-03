@@ -1,4 +1,4 @@
-            # Formulaires_en_Sinatra
+##Formulaires_en_Sinatra
 
 ## Installation et utilisation
 1. Placez vous où vous souhaitez cloner le Gossip en ligne
