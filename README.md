@@ -34,7 +34,8 @@ THP_sinatra
         ├── index.erb
         └── new_gossip.erb
         └── show.erb
-        └── edit.erb```
+        └── edit.erb
+```
       
        
 ### config.ru
@@ -49,4 +50,3 @@ C'est le fichier qui contient la classe Gossip
 C'est la database au format csv
 #### views
 Ce dossier contient les differentes views
-
